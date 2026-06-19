@@ -20,6 +20,6 @@ si vous modifiez le projet n'oubliez pas de faire make clean pour enlever les an
 # Crédit
 Sansationnelle: codeur
 # technicité
-Le codes à beacoups de fail safe, il empêche l'utilisateur de mettre un champs vide, ou mettre un nom déjà pris pour ajout d'un nouveau contacte ou la modification du nom
+Le codes à beacoups de fail safe, il empêche l'utilisateur de mettre un champs vide, ou mettre un nom déjà pris pour ajout d'un nouveau contact ou la modification du nom
 aussi pour les options du menu avec un int qui a un fail safe si un int n'est pas inséré
-Ce projet utilise getline à la place de cin car j'ai préféré qu'il prenne toutes un ligne et qu'on puisse ajouter des espace dans les noms plutôt que le code bugge à cause des espace inséré
+Ce projet utilise getline à la place de cin car j'ai préféré qu'il prenne toute une ligne et qu'on puisse ajouter des espaces dans les noms plutôt que le code bugge à cause des espaces insérés
